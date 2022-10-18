@@ -14,7 +14,7 @@ Add Permissions of Read, Send, Receive SMS in Manifest File and same check in Ma
 
 Use Databinding in gradle file to easy way integrate xml into kotlin file
 
-Use Material 3 design for UI
+
 
 Create Refresh Option in Option Menu. It will reload SMS contents in RecyclerView.
 
